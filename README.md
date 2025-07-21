@@ -16,18 +16,26 @@ By identifying the most effective platform, we aim to optimize ad spending and d
 Rows: 365 days of data for the year 2019
 Columns include:
 Date
+
 Platform (Facebook or AdWords)
+
 Ad Views
+
 Ad Clicks
+
 Ad Conversions
+
 Cost per Ad
+
 CTR (Click-through rate)
 Conversion Rate
+
 CPC (Cost per Click)
 
 🎯 Research Question
 
 Which advertising platform—Facebook or AdWords—is more effective in terms of conversions, clicks, and overall cost-efficiency?
+
 
 📁 Dataset Overview
 
